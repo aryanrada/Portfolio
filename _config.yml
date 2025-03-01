@@ -1,2 +1,4 @@
-title: Aryan Radadiya
-theme: jeykll-theme-minimal
+logo: /img/aryan-1.jpeg
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
