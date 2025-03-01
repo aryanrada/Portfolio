@@ -1,6 +1,12 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS
+## Skills
+
+#### SQL, MongoDB, Hive, Hadoop
+#### Python (Pandas, NumPy, SciPy, Matplotlib), Java, PHP(Laravel)
+#### Tableau, Microsoft Power BI
+#### Excel (VLookup, Conditional Formatting, Pivot Tables, Power Query), Word, PowerPoint
+#### Google Cloud, AWS 
 
 ## Education
 - Artificial Intelligence | Georgian College – Barrie, ON (_April 2025_)
@@ -28,7 +34,7 @@
 - Conducted an in-depth analysis of BlackRock’s financial impact using Python and Excel, identifying key market trends and asset growth predictions.
 - Built interactive Power BI dashboards to benchmark performance against industry peers, providing data-driven insights for investment decision-making.
 
-![BlackRock](/img/Blackrock%20analysis.png)
+![BlackRock](/img/Blackrock_analysis.png)
 
 ### Video Streaming Services (VDirect)
 [Github](https://github.com/aryanrada/VDirect)
